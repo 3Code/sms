@@ -1,0 +1,3 @@
+prefix *
+notelp 081994010641
+isi http://localhost/smsGateway/menusms/auto_penerima.php?sender=@@SENDER@@&isi=@@FULLSMS@@

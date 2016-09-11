@@ -1,0 +1,6 @@
+create view tbl_broadcast as
+select 
+tbl_rekening.idpel,tbl_pelanggan.namapel,tbl_rekening.lembar,tbl_rekening.biaya,
+tbl_pelanggan.notelp
+from tbl_pelanggan,tbl_rekening
+where tbl_pelanggan.idpel=tbl_rekening.idpel
