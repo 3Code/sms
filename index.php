@@ -33,13 +33,13 @@
                  <table width="420" border="0">
                   <tr>
                     <td width="94" rowspan="3"><div align="right"><img src="sms.png" width="60" height="82" /></div></td>
-                    <td width="316"><strong>Aplikasi SMS Gateway</strong></td>
+                    <td width="316"><strong>SMS App</strong></td>
                   </tr>
                   <tr>
-                    <td><strong>Tagihan Pembayaran Rekening Listrik</strong></td>
+                    <td><strong></strong></td>
                   </tr>
                   <tr>
-                    <td><strong>PLN (Persero) Rayon Indarung</strong></td>
+                    <td><strong></strong></td>
                   </tr>
                 </table>
                 <p>&nbsp;</p>
@@ -55,7 +55,7 @@
                 <input type="submit" class="btn btn-block btn-custom-green" value="LOGIN" />
                 
                 <div class="text-center forget">
-                    <p>Copyright &copy; Resi Sundari</p>
+                    <p></p>
                 </div>
           </form>
         </div>
