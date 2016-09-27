@@ -33,14 +33,11 @@
                  <table width="420" border="0">
                   <tr>
                     <td width="94" rowspan="3"><div align="right"><img src="sms.png" width="60" height="82" /></div></td>
-                    <td width="316"><strong>Take Your Dose</strong></td>                    
+                    <td width="316" height ="30"><strong>Take Your Dose</strong></td>                    
                   </tr>
                   <tr>
                     <td>A Medication Reminder App</td>
-                  </tr>
-                  <tr>
-                    <td><strong></strong></td>
-                  </tr>
+                  </tr>                  
                 </table>
                 <p>&nbsp;</p>
               </div>
@@ -49,7 +46,7 @@
               </div>
 
                 <div class="form-group">
-                    <input type="password" class="form-control" name="pass" placeholder="pass">
+                    <input type="password" class="form-control" name="pass" placeholder="password">
                 </div>
                 
                 <input type="submit" class="btn btn-block btn-custom-green" value="LOGIN" />
