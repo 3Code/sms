@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Halaman Login</title>
+    <title>Take Your Dose</title>
 
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -33,7 +33,8 @@
                  <table width="420" border="0">
                   <tr>
                     <td width="94" rowspan="3"><div align="right"><img src="sms.png" width="60" height="82" /></div></td>
-                    <td width="316"><strong>SMS App</strong></td>
+                    <td width="316"><strong>Take Your Dose</strong></td>
+                    <td width="316">A Medication Reminder App</td>
                   </tr>
                   <tr>
                     <td><strong></strong></td>
